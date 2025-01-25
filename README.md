@@ -1,4 +1,4 @@
-# Ignite Module 2
+# API Knex
 - Exemplo de uma API REST usando a tecnologia knex com sqlite
   
 # Stacks: 
