@@ -5,3 +5,4 @@
 
 - [Knex](https://knexjs.org/guide/#node-js)
 - [SQLite3](https://knexjs.org/)
+- [ZOD](https://www.npmjs.com/package/zod)
